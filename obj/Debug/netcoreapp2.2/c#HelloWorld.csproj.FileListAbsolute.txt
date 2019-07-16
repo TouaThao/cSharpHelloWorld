@@ -1,0 +1,11 @@
+/Users/touathao/Desktop/Pratice/C#/c#HelloWorld/bin/Debug/netcoreapp2.2/c#HelloWorld.deps.json
+/Users/touathao/Desktop/Pratice/C#/c#HelloWorld/bin/Debug/netcoreapp2.2/c#HelloWorld.runtimeconfig.json
+/Users/touathao/Desktop/Pratice/C#/c#HelloWorld/bin/Debug/netcoreapp2.2/c#HelloWorld.runtimeconfig.dev.json
+/Users/touathao/Desktop/Pratice/C#/c#HelloWorld/bin/Debug/netcoreapp2.2/c#HelloWorld.dll
+/Users/touathao/Desktop/Pratice/C#/c#HelloWorld/bin/Debug/netcoreapp2.2/c#HelloWorld.pdb
+/Users/touathao/Desktop/Pratice/C#/c#HelloWorld/obj/Debug/netcoreapp2.2/c#HelloWorld.csprojAssemblyReference.cache
+/Users/touathao/Desktop/Pratice/C#/c#HelloWorld/obj/Debug/netcoreapp2.2/c#HelloWorld.csproj.CoreCompileInputs.cache
+/Users/touathao/Desktop/Pratice/C#/c#HelloWorld/obj/Debug/netcoreapp2.2/c#HelloWorld.AssemblyInfoInputs.cache
+/Users/touathao/Desktop/Pratice/C#/c#HelloWorld/obj/Debug/netcoreapp2.2/c#HelloWorld.AssemblyInfo.cs
+/Users/touathao/Desktop/Pratice/C#/c#HelloWorld/obj/Debug/netcoreapp2.2/c#HelloWorld.dll
+/Users/touathao/Desktop/Pratice/C#/c#HelloWorld/obj/Debug/netcoreapp2.2/c#HelloWorld.pdb
